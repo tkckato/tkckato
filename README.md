@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tkckato
-- 👀 I’m interested in vintage items, actually clothes.
 - 🌱 I’m currently learning Linux, javascripts hard
 
 
