@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @tkckato
-- 🌱 I’m currently learning Linux, javascripts hard
+
 
 
 <!---
